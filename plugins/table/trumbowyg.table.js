@@ -43,8 +43,11 @@
             },
             fr: {
                 table: 'Insérer un tableau',
-                tableAddRow: 'Ajouter des lignes',
-                tableAddColumn: 'Ajouter des colonnes',
+                tableAddRow: 'Ajouter une ligne',
+                tableAddColumn: 'Ajouter une colonne',
+                tableDeleteRow: 'Supprimer une ligne',
+                tableDeleteColumn: 'Supprimer une colonne',
+                tableDestroy: 'Supprimer le tableau',
                 error: 'Erreur'
             },
             cs: {
